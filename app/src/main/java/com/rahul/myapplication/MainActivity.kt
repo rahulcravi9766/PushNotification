@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.i("hello", "git")
 
+        testing for commiting an error in git
     }
 }
