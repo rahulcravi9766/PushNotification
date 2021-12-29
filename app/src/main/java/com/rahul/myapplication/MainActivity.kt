@@ -10,8 +10,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("hello", "git")
+        Log.i("hello", "git")
+        Log.i("hello", "git")
+        Log.i("hello", "git")
 
-        when is for by as it do when while
+
 
     }
 }
