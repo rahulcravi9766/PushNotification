@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
         print("helllodd three")
 
         print("latest")
+        print("This is your friends commit")
+
 
 
     }
