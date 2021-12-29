@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
 
         Log.i("third", "git")
 
+        Log.i("forth", "git")
+
 
     }
 }
