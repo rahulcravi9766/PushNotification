@@ -9,15 +9,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Log.i("hello", "git")
-        Log.i("hello", "git")
-        Log.i("hello", "git")
-        Log.i("hello", "git")
 
 
         Log.i("third", "git")
 
         Log.i("forth", "git")
+
+        Log.i("fifth", "git")
 
 
     }
