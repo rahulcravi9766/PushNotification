@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913024101123",
+    "project_id": "pushnotification-b0bc1",
+    "storage_bucket": "pushnotification-b0bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913024101123:android:92af8f9608fa5f5fa8d736",
+        "android_client_info": {
+          "package_name": "com.rahul.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913024101123-j46bo0dnlk3b8r9vs4aqm2ogb2pla0f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4wkk5LrrtLAyhiqtFPlubfbp9jBWyjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913024101123-j46bo0dnlk3b8r9vs4aqm2ogb2pla0f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
