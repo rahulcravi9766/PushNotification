@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.i("hello", "git")
 
-        testing for commiting an error in git
+        when is for by as it do when while
+
     }
 }
